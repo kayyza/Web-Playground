@@ -1,0 +1,43 @@
+/* 
+This is a block of comment.
+Author: Rachel Herron
+*/
+
+body {
+    background-color: rgb(238, 227, 229);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+
+#program-title {
+    background-color: rgb(233, 122, 159);
+    color: whitesmoke;
+}
+
+.lightColor {
+    color: rgb(150, 201, 145);
+}
+
+h1:hover {
+    color: rgb(219, 67, 181);
+}
+
+h2 {
+    background-color: rgb(245, 214, 238);
+} 
+
+#container1 {
+    padding: 10px;
+    float: left;
+    width: 45%;
+    border: 3px, solid, pink;
+    
+}
+
+#container2 {
+    padding: 10px;
+    float: right;
+    width: 45%;
+    border: 3px, solid, pink;
+}
